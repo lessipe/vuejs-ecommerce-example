@@ -1,0 +1,22 @@
+[
+  {
+    "title": "메인 상품1",
+    "subtitle": "메인 상품1 설명",
+    "image": "/images/banners/main-banner01.jpg"
+  },
+  {
+    "title": "메인 상품2",
+    "subtitle": "메인 상품2 설명",
+    "image": "/images/banners/main-banner02.jpg"
+  },
+  {
+    "title": "메인 상품3",
+    "subtitle": "메인 상품3 설명",
+    "image": "/images/banners/main-banner03.jpg"
+  },
+  {
+    "title": "메인 상품4",
+    "subtitle": "메인 상품4 설명",
+    "image": "/images/banners/main-banner04.jpg"
+  }
+]

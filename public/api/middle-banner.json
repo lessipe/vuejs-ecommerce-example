@@ -1,0 +1,18 @@
+[
+  {
+    "image": "https://picsum.photos/720/539/?image=717",
+    "title": "LOOKBOOK",
+    "subTitle": "The Beauty",
+    "link": "",
+    "linkText": "VIEW COLLECTION",
+    "type": "normal"
+  },
+  {
+    "image": "https://picsum.photos/720/539/?image=114",
+    "title": "Gafas sol Hawkers one",
+    "price": 29.50,
+    "discountPrice": 15.90,
+    "expireTime": "2019-03-13 04:00:00",
+    "type": "countdown"
+  }
+]
